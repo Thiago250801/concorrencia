@@ -1,3 +1,3 @@
 # concorrencia
 
-Alunos: Thiago Arthir e Jonathan
+Alunos: Thiago Arthur e Jonathan
